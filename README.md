@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Easytech12
-- 👀 I’m interested in  la technologie surtout la programmation  
-- 🌱 I’m currently learning  les langages comme le c++ et js
+- 👀 I’m interested in  la technologie surtout a la programmation  
+- 🌱 I’m currently learning  les langages comme le c++ ,js,python,html et css.
 - 💞️ I’m looking to collaborate on  github
 - 📫 How to reach me  (pjudehawens12@gmail.com)
 
